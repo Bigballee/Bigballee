@@ -1,5 +1,5 @@
 # 💫 About Me:
-recent software engineering graduate <br>interested in crypto , ai, full stack development<br>enjoy working with react ,nodejs, python<br><br><br>I'm a recent Software Engineering graduate from Brunel University London, passionate about building innovative solutions using AI, crypto, and full-stack web development.
+recent software engineering graduate <br>interested in crypto , ai, full stack development<br>enjoy working with react ,nodejs, python<br><br><br>I'm a recent Software Engineering graduate , passionate about building innovative solutions using AI, crypto, and full-stack web development.
 
 
 # 💻 Tech Stack:
